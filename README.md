@@ -160,6 +160,7 @@ Ramas GitFlow:
 * Desarrollo de una **gran parte del panel de administración**
 * Apoyo en la estructura y organización del frontend
 * Diseño y desarrollo de componentes reutilizables en Reflex (como el Navbar y Footer compartidos).
+  
 **Sebastián**
 
 * Configuración y ejecución del **deploy del proyecto**
