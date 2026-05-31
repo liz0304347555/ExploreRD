@@ -54,7 +54,7 @@ explorerd/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/explorerd.git
+git clone https://github.com/Alexiz223/ExploreRD.git
 cd explorerd
 ```
 
@@ -68,9 +68,10 @@ pip install -r requirements.txt
 Crea o edita el archivo `.env` con tus credenciales:
 
 ```
-DB_USER=avnadmin
-DB_PASSWORD=AVNS_2FTghz4Gv6SS7rMDHoc
-DB_HOST=mysql-5cb43f0-paginawebhoteles-52d7.a.aivencloud.com
+Crea o edita el archivo .env con tus credenciales:
+DB_USER=tu_usuario_de_aiven
+DB_PASSWORD=tu_contraseña_segura
+DB_HOST=tu_host_de_aivencloud.com
 DB_PORT=12975
 DB_NAME=defaultdb
 
@@ -158,7 +159,7 @@ Ramas GitFlow:
 * Diseño visual general de la aplicación (UI/UX)
 * Desarrollo de una **gran parte del panel de administración**
 * Apoyo en la estructura y organización del frontend
-
+* Diseño y desarrollo de componentes reutilizables en Reflex (como el Navbar y Footer compartidos).
 **Sebastián**
 
 * Configuración y ejecución del **deploy del proyecto**
